@@ -1,2 +1,2 @@
 # auth_react
-Link Video : 
+Link Video : Video menyusul, masih ada yang error
